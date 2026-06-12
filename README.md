@@ -1,31 +1,8 @@
-# PostgreSQL Projects
+# Why PostgreSQL
+PostgreSQL is a powerful, open-source relational database management system that stores data in tables and uses structured query language to read and write data.
+It uses and extends the SQL language, while also supporting non-relational data. It combines the reliability of a traditional relational database with the flexibility  of modern  data systems.
 
-This repository contains my PostgreSQL and SQL practice projects.
+## DBMS
 
-## About Me
-I am an ICT Technician graduate interested in database management, SQL, and software development.
 
-## Skills Demonstrated
-- SQL Queries
-- Database Design
-- PostgreSQL
-- Data Manipulation
-- Table Creation and Relationships
 
-## Projects
-
-### My Database
-This project contains SQL scripts for:
-- Creating tables
-- Inserting data
-- Updating records
-- Deleting records
-- Running queries
-
-## Technologies Used
-- PostgreSQL
-- pgAdmin 4
-- GitHub
-
-## Author
-Clifford Maina
